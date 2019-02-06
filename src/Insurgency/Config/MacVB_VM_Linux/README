@@ -1,0 +1,3 @@
+1. su steam (takes you to the /home/steam directory)
+2. bash gup.sh 581330 sandstorm
+3. sandstorm/start_server.sh
