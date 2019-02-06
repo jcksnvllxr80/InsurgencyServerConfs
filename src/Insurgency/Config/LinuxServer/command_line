@@ -1,0 +1,1 @@
+./Insurgency/Binaries/Linux/InsurgencyServer-Linux-Shipping Oilfield?Scenario=Scenario_Refinery_Checkpoint_Insurgents?MaxPlayers=8 -multihome=@SERVERIP -Port=@SERVERPORT -QueryPort=@SERVERPORT1 -RconPassword=<get_your_own_pw> -RconListenPort=@SERVERPORT2 -log -hostname="GamingNerdsCoop" -MapCycle=MyMapCycle.txt

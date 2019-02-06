@@ -1,0 +1,1 @@
+/home/steam/sandstorm/Insurgency/Binaries/Linux/InsurgencyServer-Linux-Shipping Oilfield?Scenario=Scenario_Refinery_Checkpoint_Insurgents?MaxPlayers=8?Password=<your_own_pw> -Port=27102 -QueryPort=27131 -log -hostname="Linux_GamingNerdsCoop" -MapCycle=MyMapCycle.txt
